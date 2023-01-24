@@ -1,0 +1,22 @@
+{
+  "name": "gashog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.8.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-security": "^1.7.3",
+    "web3": "^1.8.1"
+  }
+}
